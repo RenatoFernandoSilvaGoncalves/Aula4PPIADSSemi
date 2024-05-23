@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RenatoFernandoSilvaGoncalves/Aula3PPIADSSemi.git"
+    "url": "git+https://github.com/RenatoFernandoSilvaGoncalves/Aula4PPIADSSemi.git"
   },
   "keywords": [
     "HTTP",
@@ -20,9 +20,9 @@
   "author": "Renato Gonçalves",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/RenatoFernandoSilvaGoncalves/Aula3PPIADSSemi/issues"
+    "url": "https://github.com/RenatoFernandoSilvaGoncalves/Aula4PPIADSSemi/issues"
   },
-  "homepage": "https://github.com/RenatoFernandoSilvaGoncalves/Aula3PPIADSSemi#readme",
+  "homepage": "https://github.com/RenatoFernandoSilvaGoncalves/Aula4PPIADSSemi#readme",
   "dependencies": {
     "cookie-parser": "^1.4.6",
     "express": "^4.19.2",
